@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514044257872",
+    "project_id": "jetpacktodo",
+    "storage_bucket": "jetpacktodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514044257872:android:9b548014a38eaeb01dd355",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8QW1Xa53Ceh_F47tLiVueTuIv79zlqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
